@@ -1,0 +1,42 @@
+h1, p {
+    background-color: #DDE0E3;    /* Light gray */
+  }
+
+
+  em, strong {
+    background-color: #B2D6FF;
+    display:inline;             /* This is the default for em and strong */
+  }
+  
+
+  h1 {
+      color: plum;
+      font-size: 50px;
+      padding: 50px;
+      border: 3px solid black
+  }
+  
+
+  h2 p {
+      background-color: coral;
+     
+  }
+  h2 p {
+      color: burlywood;
+      font-size: 30px;
+      padding: 20px 0 20px 10px;
+        margin-bottom: 50px;          /* Add this */
+      }
+  
+  p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  strong {
+    margin: 2px;
+  }
+
+  
